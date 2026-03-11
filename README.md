@@ -8,4 +8,4 @@ Projeto desenvolvido na disciplina de Front-End.
 - CSS
 - JavaScript
 - Git
-- GitHub
+- GitHub# 1tdspv_python
